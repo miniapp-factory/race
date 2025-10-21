@@ -30,6 +30,10 @@ const pages = [
     ),
     href: "/",
   },
+  {
+    label: <span className="text-lg">Race</span>,
+    href: "/car-race",
+  },
 ];
 
 export function Header() {
